@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AptiMaster",
+    "slug": "aptimaster",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#090B12"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.aptimaster"
+    },
+    "android": {
+      "package": "com.example.aptimaster"
+    },
+    "scheme": "aptimaster"
+  }
+}
